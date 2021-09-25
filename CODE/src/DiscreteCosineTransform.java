@@ -2,6 +2,11 @@ package dct;
 
 public class DiscreteCosineTransform {
 	
+	/*
+	* @praveenK257
+	*
+	*/
+	
 	public static int n;
 	public static int m;
 	public int[][] matrix;
