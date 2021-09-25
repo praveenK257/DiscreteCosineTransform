@@ -7,13 +7,16 @@ import java.util.Scanner;
 public class DCT_GUI{
 
 	public static void main(String[] args) {
-		
+		/*
+		* @praveenK257
+		*
+		*/
 		Scanner sc = new Scanner(System.in);
 		int m=sc.nextInt(),n=sc.nextInt();
 		int[][] matrix = new int[m][n];
 		
 		
-		JFrame frame = new JFrame("Discrete Cosine Transform");
+		JFrame frame = new JFrame("Discrete Cosine Transform - 18D017_78_93");
 		frame.setSize(600,600);
 		frame.setLayout(null);
 		
