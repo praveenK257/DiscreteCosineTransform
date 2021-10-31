@@ -3,7 +3,7 @@ package dct;
 public class DiscreteCosineTransform {
 	
 	/*
-	* @praveenK257
+	* Code for DCT taken from GeeksforGeeks
 	*
 	*/
 	
